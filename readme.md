@@ -41,6 +41,10 @@ We work with founders, startups, and established companies from Upwork to build 
 
 ➡️ Full portfolio: https://www.behance.net/gallery/166685361/Bothelp-website
 
+Recent Live-works:
+
+(Under NDA)
+
 ---
 
 ### Healthcare / MedTech
@@ -53,7 +57,7 @@ We work with founders, startups, and established companies from Upwork to build 
 - Platform for healthcare providers and internal operators  
 - Custom dashboards for clinic operations  
 
-➡️ Full portfolio: https://www.behance.net/tareevstudio
+➡️ Full portfolio: https://www.behance.net/gallery/226306381/VitaMove-Health-Wellness-UIUX
 
 Recent Live-works:
 
@@ -99,6 +103,10 @@ We actively integrate AI where it **creates business value**, not hype.
 - Data-driven decision support systems  
 
 ➡️ Full portfolio: https://www.behance.net/gallery/184685211/Website-for-soccer-school
+
+Recent Live-works:
+
+(Under NDA)
 
 ---
 
