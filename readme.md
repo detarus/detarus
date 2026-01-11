@@ -39,7 +39,7 @@ We work with founders, startups, and established companies from Upwork to build 
 - Internal analytics system for operational teams  
 - Subscription-based business management tool  
 
-➡️ Full portfolio: https://www.behance.net/tareevstudio
+➡️ Full portfolio: https://www.behance.net/gallery/166685361/Bothelp-website
 
 ---
 
@@ -55,19 +55,34 @@ We work with founders, startups, and established companies from Upwork to build 
 
 ➡️ Full portfolio: https://www.behance.net/tareevstudio
 
+Recent Live-works:
+
+https://textteo.com/
+
+https://erectonin.one/
+
+https://medt.ge/en/
+
+
 ---
 
-### E-Commerce
+### Luxary E-Commerce
 - Custom e-commerce platforms (not template-based)
 - Complex pricing, catalogs, integrations, PIM/CRM
 - High-load and growth-ready architecture
 
-**Recent work**
+**Recent works**
 - Premium e-commerce platform with custom catalog logic  
 - Multi-vendor commerce solution  
 - Internal tooling for order and inventory management  
 
-➡️ Full portfolio: https://www.behance.net/tareevstudio
+➡️ Full portfolio: https://www.behance.net/gallery/174958629/E-commerce-Online-Shop-(Erection-Medicine)
+
+Recent Live-works:
+
+https://pairstore.ae/
+
+https://cokgold.ru (+ custom 3D-Configurator: https://ring.cokgold.ru/)
 
 ---
 
@@ -79,11 +94,11 @@ We actively integrate AI where it **creates business value**, not hype.
 - AI integrations into existing SaaS and platforms  
 
 **Recent work**
-- AI-driven automation for internal business workflows  
-- Intelligent assistants integrated into SaaS products  
+- AI-driven automation for internal business workflow of Soccer School
+- Intelligent assistants integrated into the product and sales funnel  
 - Data-driven decision support systems  
 
-➡️ Full portfolio: https://www.behance.net/tareevstudio
+➡️ Full portfolio: https://www.behance.net/gallery/184685211/Website-for-soccer-school
 
 ---
 
@@ -97,7 +112,7 @@ We actively integrate AI where it **creates business value**, not hype.
 - Marketplace with complex onboarding and moderation flows  
 - Internal tools for marketplace operations  
 
-➡️ Full portfolio: https://www.behance.net/tareevstudio
+➡️ Full portfolio: https://www.behance.net/gallery/186178259/Fynoblock
 
 ---
 
@@ -109,7 +124,8 @@ We actively integrate AI where it **creates business value**, not hype.
 - Modern UI architectures
 
 ### Backend
-- Node.js, Python  
+- Node.js, Python
+- Symfony & PHP-based CMS  
 - REST & API-first systems  
 - Modular and scalable backend design
 
@@ -131,8 +147,17 @@ We focus not only on tools, but on **engineering decisions and long-term maintai
 
 A curated repository with **real examples and approaches** we use in client projects:
 
+➡️ ## Upwork Examples
+
+A curated repository with **real-world examples, patterns, and approaches** we use in client projects on Upwork:
+- architecture decisions
+- code structure examples
+- typical SaaS / platform use cases
+- best practices applied in production work
+
 ➡️ **Upwork Examples Repository**  
-*(recommended for Upwork clients)*
+https://github.com/detarus/upwork-examples  
+*(recommended for Upwork clients to review before starting a project)*
 
 ---
 
@@ -166,7 +191,7 @@ A curated repository with **real examples and approaches** we use in client proj
   <a href="https://tareev.studio">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/dmitrii-tareev-1888331b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
